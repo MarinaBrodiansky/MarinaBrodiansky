@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Обо мне 
+1. Junior Frontend Developer из Санкт-Петербурга
+2. Изучаю JavaScript, React, TypeScript
+
 <!--
 **MarinaBrodiansky/MarinaBrodiansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
